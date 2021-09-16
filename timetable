@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<style>
+td,h1{font-family:"DFKai-sb";}
+</style>
+<title>yiyun's class timetable</title>
+<meta charset="UTF-8">
+<meta http-equiv="refresh"content="5">
+
+</head>
+
+<body>
+
+<table border="1">
+
+<!--星期-->
+<tr>
+<td width="" height=""></td>
+<td width=""></td>
+<td width=""></td>
+<td width=""></td>
+<td width=""></td>
+<td width=""></td>
+</tr>
+
+</body>
+</html>
